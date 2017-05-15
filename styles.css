@@ -98,7 +98,7 @@ header{
 }
 	.center-block-main{
 		margin:0 auto;
-		max-width:990px;
+		max-width:980px;
 	}
 	.logo{
 		float:left;	
@@ -121,14 +121,16 @@ header{
 	.menu li a:hover{
 		color:#58c93a;
 		border-bottom:3px solid #58c93a;
+		border-left:1px solid #1d1d1d;
+		border-right:1px solid #1d1d1d;
 	}
 	main{
 		float:left;
-		margin-top:70px;
-		width:62.5%;
+		margin-top:80px;
+		width:63.2%;
 	}
 	aside{
 		float:right;
-		margin-top:70px;
-		width:28.3%;	
+		margin-top:80px;
+		width:28.57%;	
 	}
