@@ -122,3 +122,13 @@ header{
 		color:#58c93a;
 		border-bottom:3px solid #58c93a;
 	}
+	main{
+		float:left;
+		margin-top:70px;
+		width:62.5%;
+	}
+	aside{
+		float:right;
+		margin-top:70px;
+		width:28.3%;	
+	}
