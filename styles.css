@@ -92,3 +92,33 @@ img{
     display: table;
 }
 /* --------------- /базовые настройки ---------*/
+header{
+	background:#292929;
+	overflow:hidden;
+}
+	.center-block-main{
+		margin:0 auto;
+		max-width:990px;
+	}
+	.logo{
+		float:left;	
+		margin-top:45px;
+	}
+	.menu	{
+	float:right;
+	}	
+	.menu li 	{
+		float:left;
+		font-weight:600;
+	}
+	.menu li a	{
+		text-decoration:none;
+		color:#fff;
+		padding:50px 35px;
+		display:block;
+		border-bottom:3px solid #292929;
+	}
+	.menu li a:hover{
+		color:#58c93a;
+		border-bottom:3px solid #58c93a;
+	}
