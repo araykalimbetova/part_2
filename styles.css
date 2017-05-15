@@ -58,21 +58,22 @@ html {
 	min-height:100%; /* всегда показываем вертикальную полосу прокрутки  */
 }
 body {
-	color: #000;
+	color: #606060;
 	text-align: left;
 	font-size: 1em; /* используем безопасные шрифтовые CSS стеки */
 	min-height:100%;
+	font-family: 'Open Sans', sans-serif;
 }
 a, a:visited { /* пор€док правил дл€ ссылок имеет значение */
-	color: #e6618c;
+	color: #339933;
 	text-decoration: underline;
 }
 a:hover {
-	color: #fdf208;
+	color: #339933;
 	text-decoration:none;
 }
 a:focus, a:active {
-	color: #c83867;
+	color: #339933;
 	text-decoration: underline;
 }
 h1, h2, h3, h4, h5, h6{
