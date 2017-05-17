@@ -167,3 +167,60 @@ header{
 		margin-top:80px;
 		width:28.57%;	
 	}
+		.widget{
+		margin-bottom:64px;
+		}
+		.widget h2{
+			text-transform:uppercase;
+			color:#6c6969;
+			background:#f8f8f8;
+			border-left:3px solid #58c93a;
+			padding:10px 20px;
+			font-weight:600;
+			margin-bottom:20px;
+		}
+		.search{
+		color:#b9b9b9;
+		font-size:0.75em;
+		width:100%;
+		border:1px solid #e1e0e0;
+		padding:18px 18px;
+		}
+		.widget>nav{
+		margin-left:18px;
+		}	
+		.subscribe-input{
+		color:#b9b9b9;
+		font-size:0.75em;
+		width:100%;
+		border:1px solid #e1e0e0;
+		padding:18px 50px 18px 18px;
+		box-sizing:border-box;
+		position:absolute;
+		top:0;
+		left:0;
+	}
+	.subscribe{
+		position:relative;
+		width:100%;
+		height:50px;
+	}
+	.subscribe-img{
+	position:absolute;
+	right:20px;
+	top:12px;
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
