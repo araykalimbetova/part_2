@@ -250,7 +250,42 @@ header{
 			footer img {
 				margin-bottom:20px;
 			}
-	
+			
+		@media screen and (max-width:768px){
+			aside{
+				float:none;
+				margin-top:80px;
+				width:100%;	
+				}
+			main{
+				float:none;
+				margin-top:30px;
+				width:100%;
+				}
+			article>header img{
+					width:100%;
+				}
+			.logo{
+				margin-top:20px;
+				}
+			.menu li a	{			
+				padding:25px 35px;
+				}
+		}
+		@media screen and (max-width:620px){
+			.logo{
+				float:none;
+				margin:10px auto;
+				display:block;
+			}
+			.menu li a	{			
+				padding:10px 35px;
+				}
+			.menu	{
+				float:none;
+				width:100%;
+				}	
+		}
 			
 		
 		
