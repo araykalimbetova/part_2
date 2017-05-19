@@ -161,6 +161,7 @@ header{
 			display:inline-block;
 			padding:12px 18px;
 			text-decoration:none;
+			transition:all 0.1s linear;
 		}
 		a:hover.more{
 			color:#339933;
